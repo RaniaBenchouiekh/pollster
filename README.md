@@ -20,10 +20,16 @@ pipenv install django
 ```
 #### Create an administrator
 
+
 #### Run the project
 
-If you have problems with the package ***django.urls*** when running the project, you will have to update your Django version like so :
+
+#### Encountered Problems (Solutions)
+
+If you have a problem with the package ***django.urls*** when running the project, you will have to update your Django version ( >= 2.0 ) like so :
+
 ```bash
+pip install --upgrade django
 ```
 
 ### Credits
