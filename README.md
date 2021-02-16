@@ -46,26 +46,18 @@ Here are some screenshots.
 <table>
   <tr>
     <td><b>Welcome Interface</b></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/user/welcome.png" width="470"/></td>
-  </tr>
-  <tr>
     <td> <b>Polls Interface</b> </td>
   </tr>
   <tr>
+    <td><img src="screenshots/user/welcome.png" width="470"/></td>
     <td><img src="screenshots/user/questions.png" width="470"/></td>
   </tr>
   <tr>
     <td><b>Voting Interface</b> </td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/user/voting.png" width="470"/></td>
-  </tr>
-  <tr>
     <td><b>Results Interface</b> </td>
   </tr>
   <tr>
+    <td><img src="screenshots/user/voting.png" width="470"/></td>
     <td><img src="screenshots/user/results.png" width="470"/></td>
   </tr>
  </table>
