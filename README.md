@@ -1,10 +1,11 @@
 # pollster
 
-Minimalist application to create polls with questions / choices, with an administrator side, built with Python, Django, HTML and Bootstrap. Running on localhost.
+Minimalist application to create polls, questions / choices, with an administrator side, built with Python, Django, HTML and Bootstrap. Running on localhost.
 
 ## Screenshots
 
-Here are some screenshots.
+Here are some screenshots. 
+(Keep in mind that the interface is not the main focus of this project, so you can step it up :) )
 
 ### Administration Area
 
